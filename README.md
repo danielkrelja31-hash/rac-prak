@@ -1,2 +1,2 @@
 # rac-prak
-racunalni praktikum
+racunalniški praktikum
