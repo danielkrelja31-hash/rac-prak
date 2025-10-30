@@ -1,2 +1,2 @@
-# rac-prak
+# racunalniski-prakaktikum
 racunalniški praktikum
